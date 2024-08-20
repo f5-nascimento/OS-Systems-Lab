@@ -14,6 +14,5 @@ def tarefa_2():
         time.sleep(1)  # Simula um tempo de execução longo
     print("Tarefa 2 concluída.")
 
-# Simulação de um sistema monoprogramável
 tarefa_1()  # Executa a Tarefa 1
 tarefa_2()  # Executa a Tarefa 2 somente após a conclusão da Tarefa 1
