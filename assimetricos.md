@@ -21,7 +21,6 @@ master_thread.start()
 for thread in secondary_threads:
     thread.start()
 
-# Aguarda a conclusão de todas as threads
 master_thread.join()
 for thread in secondary_threads:
     thread.join()
