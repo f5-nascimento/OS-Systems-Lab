@@ -9,8 +9,8 @@ Repositório com exemplos de códigos de sistemas operacionais, incluindo:
   - [Real Time](https://github.com/f5-nascimento/OS-Systems-Lab/blob/main/real-time.md)
 
 - Multiprocessamento:
-  - [Assimétricos](https://github.com/f5-nascimento/OS-Systems-Lab/blob/main/assimetrico.md)
-  - [Simétricos](https://github.com/f5-nascimento/OS-Systems-Lab/blob/main/simetrico.md)
+  - [Assimétricos](https://github.com/f5-nascimento/OS-Systems-Lab/blob/main/assimetricos.md)
+  - [Simétricos](https://github.com/f5-nascimento/OS-Systems-Lab/blob/main/simetricos.md)
   - [Fracamente Acoplados](https://github.com/f5-nascimento/OS-Systems-Lab/blob/main/fracamente.md)
 
 Projetado para auxiliar no estudo e desenvolvimento de conceitos fundamentais em sistemas operacionais.
