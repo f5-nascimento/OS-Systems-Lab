@@ -6,15 +6,12 @@ def node_task(id, task_id):
     time.sleep(2)
     print(f"Nó {id} completou a TAREFA {task_id}.")
 
-# Criação das tarefas para os nós (sistemas)
 task_ids = [1, 2, 3, 4]
 nodes = [threading.Thread(target=node_task, args=(i, task_id)) for i, task_id in enumerate(task_ids)]
 
-# Início da execução
 for node in nodes:
     node.start()
 
-# Aguarda a conclusão de todas as tarefas
 for node in nodes:
     node.join()
 
