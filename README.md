@@ -12,6 +12,7 @@ Repositório com exemplos de códigos de sistemas operacionais, incluindo:
   - [Assimétricos](https://github.com/f5-nascimento/OS-Systems-Lab/blob/main/assimetricos.md)
   - [Simétricos](https://github.com/f5-nascimento/OS-Systems-Lab/blob/main/simetricos.md)
   - [Fracamente Acoplados](https://github.com/f5-nascimento/OS-Systems-Lab/blob/main/fracamente.md)
+  - [Sistemas Operacionais de Rede](https://github.com/f5-nascimento/OS-Systems-Lab/blob/main/sor.md)
 
 Projetado para auxiliar no estudo e desenvolvimento de conceitos fundamentais em sistemas operacionais.
 
